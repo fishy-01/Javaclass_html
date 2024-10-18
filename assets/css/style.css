@@ -1,0 +1,22 @@
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #00800b;
+}
+li{
+    float: left;
+
+}
+li a{
+    padding: 20px ;
+    display: block;
+    text-decoration: none;
+    color: white;
+
+}
+li a:hover {
+    background-color: black;
+}
+body{
+    background-image: radial-gradient(blue);
+}
